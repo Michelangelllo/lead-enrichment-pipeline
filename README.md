@@ -22,6 +22,14 @@ So the real problem was:
 
 ---
 
+## Demo Screenshots
+
+![Workflow overview](screenshots/Workflow.png)
+![Extraction step](screenshots/Before.png)
+![Final output](screenshots/Results.png)
+
+---
+
 ## What This Pipeline Does
 Given a list of businesses (starting from scraped websites), the system:
 
@@ -172,9 +180,4 @@ Implemented as a workflow automation system with:
 
 (Exact tooling can vary depending on the client stack — the logic stays the same.)
 
-## Demo Screenshots
-
-![Workflow overview](screenshots/Workflow.png)
-![Extraction step](screenshots/Before.png)
-![Final output](screenshots/Results.png)
 
