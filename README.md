@@ -174,7 +174,7 @@ Implemented as a workflow automation system with:
 
 ## Demo Screenshots
 
-![Workflow overview](screenshots/workflow.png)
+![Workflow overview](screenshots/Workflow.png)
 ![Extraction step](screenshots/Before.png)
-![Final output](screenshots/Result.png)
+![Final output](screenshots/Results.png)
 
