@@ -171,3 +171,10 @@ Implemented as a workflow automation system with:
 - Google Sheets as the final source of truth  
 
 (Exact tooling can vary depending on the client stack — the logic stays the same.)
+
+## Demo Screenshots
+
+![Workflow overview](screenshots/workflow.png)
+![Extraction step](screenshots/Before.png)
+![Final output](screenshots/Result.png)
+
